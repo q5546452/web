@@ -1,12 +1,12 @@
 <!--# web-->
 <html>
 <head>
-<title></title>
-<jscript></jscript>
+<title>这是干嘛用的啊</title>
+<jscript src=""></jscript>
 
 </head>
 <body>
-
+alert('呵呵');
 
 </body>
 
